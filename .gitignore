@@ -117,3 +117,17 @@ ENV/
 ehthumbs.db
 Thumbs.db
 .idea
+
+*.zip
+*.tar
+*.gzip
+*.jpg
+*.tar.gz
+*.tar.Z
+*.tgz
+*.pdf
+*.bmp
+*.tiff
+*.jpeg
+*.png
+
