@@ -131,3 +131,7 @@ Thumbs.db
 *.jpeg
 *.png
 
+#data directories
+./courses/dl1/data/
+./courses/misc_tuts/data/
+
