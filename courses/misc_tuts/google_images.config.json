@@ -1,0 +1,17 @@
+{
+    "Records": [
+        {
+            "keywords": "apple",
+            "limit": 5,
+            "size": "large",
+            "print_urls": true
+        },
+        {
+            "keywords": "orange",
+            "limit": 5,
+            "size": "large",
+            "print_urls": true
+        }
+    ]
+}
+
